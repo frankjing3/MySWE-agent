@@ -34,7 +34,6 @@ SWE-agent enables your language model of choice (e.g. GPT-4o or Claude Sonnet 4)
 * ✅ **Configurable & fully documented**: Governed by a single `yaml` file
 * ✅ **Made for research**: Simple & hackable by design
 
-SWE-agent is built and maintained by researchers from Princeton University and Stanford University.
 
 ## 📣 News
 
