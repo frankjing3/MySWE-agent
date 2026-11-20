@@ -28,7 +28,7 @@ SWE-agent enables your language model of choice (e.g. GPT-4o or Claude Sonnet 4)
 [fix issues in real GitHub repositories](https://swe-agent.com/latest/usage/hello_world),
 [find cybersecurity vulnerabilities](https://enigma-agent.com/), or
 [perform any custom task](https://swe-agent.com/latest/usage/coding_challenges).
-
+[perform new custom task](https://swe-agent.com/latest/usage/coding_challenges).
 * ✅ **State of the art** on SWE-bench among open-source projects
 * ✅ **Free-flowing & generalizable**: Leaves maximal agency to the LM
 * ✅ **Configurable & fully documented**: Governed by a single `yaml` file
